@@ -11,4 +11,5 @@
 
 ## De forma iterativa
 1. Cortan la carpeta de Eclipse y la pegan en la carpeta de GitHub
-2. Implementan el codigo 5 - Suben los cambios
+2. Implementan el codigo 
+3. Suben los cambios
