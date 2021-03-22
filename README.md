@@ -1,5 +1,5 @@
 # Comandos utiles
-- git clone https://github.com/juanbor/ejerciciosProg2-2021B.git
+- git clone https://github.com/juanbor/ejerciciosProg2-2021.git
 - git add .
 - git commit -m "Mensaje"
 - git push origin NOMBRE_RAMA
